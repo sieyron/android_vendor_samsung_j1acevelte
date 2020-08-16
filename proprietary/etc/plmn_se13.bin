@@ -566,8 +566,6 @@ CoverageCo"CvgCo
 312230SRT Wireless"SRTW
 
 312260USACL"USACL
-
-312280Pioneer"CNP
 
 312480Nemont"Nemont
  
@@ -590,7 +588,7 @@ NetGenuity"NetGenui
 
 338050Digicel"Digicel
 
-338180FLOW"FLOW
+338180LIME"LIME
 
 34001F-Orange"Orange
 
@@ -598,19 +596,19 @@ NetGenuity"NetGenui
 
 34020Digicel"DigicelF
 
-342600FLOW"FLOW
+342600LIME"LIME
 
 342750DIGICEL"DIGICEL
 !
 344030APUA imobile"imobile
 
-344920FLOW"FLOW
+344920LIME"LIME
 
 344930Cingular"Cingular
 
-346140FLOW"FLOW
+346140LIME"LIME
 
-348170FLOW"FLOW
+348170LIME"LIME
 !
 348570CCT Boatphone"CCTBVI
 
@@ -620,19 +618,19 @@ NetGenuity"NetGenui
 
 352030DIGICEL"DIGICEL
 
-352110FLOW"FLOW
+352110LIME"LIME
 
-354860FLOW"FLOW
+354860LIME"LIME
 
-356110FLOW"FLOW
+356110LIME"LIME
 
 358050DIGICEL"DIGICEL
 
-358110FLOW"FLOW
+358110LIME"LIME
 
 360070DIGICEL"DIGICEL
 
-360110FLOW"FLOW
+360110LIME"LIME
 
 36251Telcell GSM"Telcell
 
@@ -648,14 +646,12 @@ NetGenuity"NetGenui
 AW Digicel"Digicel
 
 36439BTC"BTC
-
-36449	NewCo2015"NewCo
 
-365840FLOW"FLOW
+365840LIME"LIME
 
 366020Cingular"Cingular
 
-366110FLOW"FLOW
+366110LIME"LIME
 
 36801CUBACEL"CUBACEL
 
@@ -671,7 +667,7 @@ AW Digicel"Digicel
 
 374130Digicel"Digicel
 
-376350FLOW"FLOW
+376350LIME"LIME
 
 40001AZEAC"Azercell
 
@@ -2017,4 +2013,4 @@ AeroMobile"AeroMob
 
 90145AISatSea"AISatSea
 
-90150EchoStar Mobile"EML&Published TS25 Database 22 August 2016
+90150EchoStar Mobile"EML$Published TS25 Database 25 July 2016
